@@ -17,7 +17,7 @@ Only 10% of crossroads have the same number per camera.
 ## Assumptions
 | Name | Value |
 | --- | --- |
-| Number of consequent hours that turn into 80% of detections | 10 |
+| Number of consequent hours per day that turn into 80% of detections | 10 |
 | Min average upload speed within the most active hours | 1 Mbps |
 
 ## Calculations
